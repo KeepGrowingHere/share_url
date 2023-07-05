@@ -1,5 +1,6 @@
 # share_url
 
 IDA Source<br/>
-https://github.com/KeepGrowingHere/ida_pro<br/>
-https://github.com/KeepGrowingHere/ida_mips
+https://github.com/KeepGrowingHere/mips_ghidra<br/>
+https://github.com/KeepGrowingHere/mips_ida77<br/>
+https://github.com/KeepGrowingHere/mips_jeb
